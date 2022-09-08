@@ -1,1 +1,0 @@
-web: gunicorn pagesproj.wsgi --log-file -
